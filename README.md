@@ -6,3 +6,13 @@ The members can register through this portal.  So,  to maintain the details of t
 
 1. [Github](https://githubh.com)
 2. [Vscode](https://code.visualstudio.com/)
+- necssary code to add file in  github
+```
+git add .
+```
+```
+git commit -m "commit"
+```
+```
+git push origin main
+```
